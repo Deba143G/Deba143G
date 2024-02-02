@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Deba143G
-- 👀 I’m interested in ML for Physicist
+- 👋 Hi, I’m Deba
+- 👀 I’m interested in ML
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on the application of ML in Physics and Mathematics
 - 📫 How to reach me: debabrataghorai.phy@gmail.com
